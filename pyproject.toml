@@ -1,0 +1,5 @@
+[project]
+name = "trainingpeaks-mcp"
+version = "0.1.0"
+description = "TrainingPeaks MCP server for Claude Desktop, Code and Cowork. No API approval needed - works with any account. Query workouts, CTL/ATL/TSB fitness data, power PRs via natural language."
+requires-python = ">=3.10"
